@@ -1,0 +1,18 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap'); */
+.yzz-title {
+  font-family: "Cinzel", serif;
+  font-size: 2rem; /* Adjust as needed */
+  font-weight: 700;
+  color: #ff0080;
+  -webkit-text-stroke: 0.5px #ff0080; /* outline effect */
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.kumar-one-outline-regular {
+  font-family: "Kumar One Outline", system-ui;
+  font-size: 2rem; /* Adjust as needed */
+
+  font-weight: 700;
+  font-style: normal;
+  color: #ff0080;
+}
